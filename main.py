@@ -14,5 +14,10 @@ arr2 = np.array([[3, 4, 5],[6,7,8]])
 
 
 #print(arr.sum(axis = 1))
-arr = arr.reshape(3,2)
-print(arr)
+# arr = arr.reshape(3,2)
+# print(arr)
+
+#ARG
+# np.argsort(arr), argmin, argmax = = = for finding the index not the element
+
+  
